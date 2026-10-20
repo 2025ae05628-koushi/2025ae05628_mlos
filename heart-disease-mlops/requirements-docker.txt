@@ -1,0 +1,10 @@
+# Runtime versions match the saved artifact's recorded environment.
+joblib==1.6.0
+numpy==2.5.4
+pandas==3.0.6
+scikit-learn==1.9.0
+scipy==1.18.1
+threadpoolctl==3.7.0
+fastapi==0.151.0
+uvicorn==0.54.0
+prometheus-client==0.26.0
